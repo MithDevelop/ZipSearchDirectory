@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ZIPORD\ZIPORD.exe
+C:\Users\user\Desktop\ZIPORD\ZIPORD.dll
+C:\Users\user\Desktop\ZIPORD\ZIPORD.deps.json
+C:\Users\user\Desktop\ZIPORD\ZIPORD.runtimeconfig.json
+C:\Users\user\Desktop\ZIPORD\ZIPORD.pdb
+C:\Users\user\Desktop\ZIPORD\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\ZIPORD\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\ZIPORD\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\ZIPORD\Renci.SshNet.dll

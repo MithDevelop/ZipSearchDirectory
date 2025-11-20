@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\ZIPORD.exe
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\ZIPORD.dll
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\ZIPORD.deps.json
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\ZIPORD.runtimeconfig.json
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\ZIPORD.pdb
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\BouncyCastle.Cryptography.dll
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\ZIPORD\ZIPORD\bin\Release\net8.0-windows\publish\win-x64\Renci.SshNet.dll
