@@ -38,7 +38,7 @@ https://github.com/MithDevelop/ZipSearchDirectory.git
    - `BouncyCastle` (if required)  
 4. Build the project (`Build -> Build Solution`).  
 5. Run the application (`F5` or `Start Debugging`).  
-
+P.S There is a compiled application located in the working_assembly folder.
 ---
 
 ## 🖥 Usage
